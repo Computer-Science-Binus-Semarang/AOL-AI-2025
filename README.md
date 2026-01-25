@@ -1,2 +1,3 @@
 - Kelompok 1 - Trustify - News Summarizing - https://huggingface.co/spaces/reydeuss/trustify
 - Kelompok 2 - FitAI - Generating Workout Plan - https://huggingface.co/spaces/stargazings/fitai
+- Kelompok 3 - Phisinc - Detecting Phising Link - https://phisinc.streamlit.app/
