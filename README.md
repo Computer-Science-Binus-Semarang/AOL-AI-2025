@@ -1,3 +1,5 @@
 - Kelompok 1 - Trustify - News Summarizing - https://huggingface.co/spaces/reydeuss/trustify
 - Kelompok 2 - FitAI - Generating Workout Plan - https://huggingface.co/spaces/stargazings/fitai
 - Kelompok 3 - Phisinc - Detecting Phising Link - https://phisinc.streamlit.app/
+- Kelompok 4 - PricePrediction - Prediction Onion Price - https://prediksi-harga-bawang-merah.streamlit.app/
+- Kelompok 5 - MBG Analyzer - Analyzing MBG - https://avalon-portfolio.vercel.app/projects/mbg_recommendation/result.html
