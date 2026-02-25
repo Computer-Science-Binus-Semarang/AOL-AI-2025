@@ -17,7 +17,7 @@ Di bawah ini adalah daftar proyek inovasi AI yang dikembangkan oleh kelompok mah
 | **03** | **Phisinc** | Deteksi dini tautan *phishing* untuk keamanan siber. | [🛡️ Streamlit](https://phisinc.streamlit.app/) |
 | **04** | **PricePrediction** | Prediksi harga bawang merah menggunakan analisis deret waktu. | [📈 Streamlit](https://prediksi-harga-bawang-merah.streamlit.app/) |
 | **05** | **MBG Analyzer** | Sistem rekomendasi dan analisis untuk program MBG. | [📊 Vercel](https://avalon-portfolio.vercel.app/projects/mbg_recommendation/result.html) |
-| **06** | **Anxiety Calc** | Alat bantu analisis tingkat kecemasan berbasis data. | [🧠 Netlify](https://www.google.com/search?q=http://aiprojbinus.netlify.net/app/) |
+| **06** | **Anxiety Calc** | Alat bantu analisis tingkat kecemasan berbasis data. | [🧠 Netlify](https://aiprojbinus.netlify.app/) |
 | **07** | **BookBloom** | Rekomendasi buku cerdas berdasarkan preferensi pembaca. | [📚 Cloud Run](https://bookbloom-api-v2-12858011155.asia-southeast2.run.app/) |
 | **08** | **StuntingAI** | Deteksi dini risiko stunting untuk mendukung kesehatan anak. | [👶 Hugging Face](https://huggingface.co/spaces/Picaetso/StuntingAI) |
 | **09** | **CommunityFinder** | Pencarian komunitas yang relevan dengan minat pengguna. | [🌐 GitHub Pages](https://marckeynesujanto-hub.github.io/Comunity-Finder-AI-Website/) |
